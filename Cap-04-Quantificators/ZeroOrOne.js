@@ -7,3 +7,5 @@ const regex = /fogo?/gi // Letra 'o' é opcional, pode ter zero ou um 'o'
 
 console.log(text1.match(regex))
 console.log(text2.match(regex))
+
+// Test git clone
